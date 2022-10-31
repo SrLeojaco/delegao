@@ -3,26 +3,28 @@
         "itemid": 10120,
         "type": "album",
         "ip": "192.168.1.32",
-        "convert": false
+        "convert": false,
+		"quality": "hifi"
 	},
 	{
         "itemid": 10122310,
         "type": "album",
         "ip": "192.168.1.32",
-        "convert": false
+        "convert": false,
+		"quality": "master"
 	},
 	{
-        "itemid": 11230120,
+        "itemid": 1123022120,
         "type": "track",
         "ip": "192.168.1.32",
         "convert": true,
-		"format": "320mp3"
+		"quality": "320mp3"
 	},
 	{
-        "itemid": 11230120,
+        "itemid": 1661230120,
         "type": "album",
         "ip": "192.168.1.32",
         "convert": true,
-		"format": "256mp3"
+		"quality": "256mp3"
 	}
 ]
