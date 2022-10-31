@@ -1,0 +1,28 @@
+[
+	{
+        "itemid": 10120,
+        "type": "album",
+        "ip": "192.168.1.32",
+        "convert": false
+	},
+	{
+        "itemid": 10122310,
+        "type": "album",
+        "ip": "192.168.1.32",
+        "convert": false
+	},
+	{
+        "itemid": 11230120,
+        "type": "track",
+        "ip": "192.168.1.32",
+        "convert": true,
+		"format": "320mp3"
+	},
+	{
+        "itemid": 11230120,
+        "type": "album",
+        "ip": "192.168.1.32",
+        "convert": true,
+		"format": "256mp3"
+	}
+]
